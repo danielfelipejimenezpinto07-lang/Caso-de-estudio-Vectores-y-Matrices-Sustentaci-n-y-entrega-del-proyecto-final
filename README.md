@@ -134,7 +134,7 @@ Para el desarrollo del proyecto se propone trabajar con las siguientes ramas:
 
 * `main`: rama principal del repositorio.
 * `develop`: rama de integración del proyecto.
-* Ramas individuales por integrante para evidenciar los aportes de cada miembro del equipo.
+
 
 Ejemplo:
 
