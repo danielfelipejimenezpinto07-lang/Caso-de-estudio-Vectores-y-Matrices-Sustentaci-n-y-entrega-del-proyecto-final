@@ -40,7 +40,7 @@ caso-vectores-matrices/
 ├── INFORME TECNICO PROYECTO FINAL.docx
 ├── Diagrama procesos usando BPMN 2.0.png
 │
-└── pruebas_escritorio/
+└── Pruebas escritorio.docx
     ├── prueba_1_suma_vectores.png
     ├── prueba_2_producto_punto.png
     └── prueba_3_multiplicacion_matrices.png
