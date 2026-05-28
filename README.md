@@ -37,8 +37,8 @@ caso-vectores-matrices/
 │
 ├── main.py
 ├── README.md
-├── informe_tecnico.docx
-├── diagrama_bpmn.png
+├── INFORME TECNICO PROYECTO FINAL.docx
+├── Diagrama procesos usando BPMN 2.0.png
 │
 └── pruebas_escritorio/
     ├── prueba_1_suma_vectores.png
