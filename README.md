@@ -144,9 +144,8 @@ develop
 
 ```
 
-Cada integrante realiza sus aportes en su propia rama y posteriormente se integran los cambios en la rama `develop`.
 
-## Realizado por : Daniel Jimenez Pinto y valeri Sofia Espitia Rodriguez
+## Realizado por : Daniel Jimenez Pinto
 
 ## Conclusión
 
